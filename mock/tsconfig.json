@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./src",
+        "outDir": "./out",
+        "target": "es5",
+        "lib": [
+            "es2016", "dom"
+        ],
+        "moduleResolution": "node",
+        "module": "commonjs",
+        "allowSyntheticDefaultImports": true,
+        "sourceMap": false
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}

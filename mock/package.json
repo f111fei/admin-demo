@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "astro-mock",
+  "version": "1.0.0",
+  "scripts": {},
+  "engines": {
+    "install-node": "6.11.1"
+  },
+  "dependencies": {
+    "@types/express": "^4.0.37",
+    "@types/mockjs": "^1.0.0",
+    "@types/node": "^8.0.34",
+    "mockjs": "^1.0.1-beta3"
+  }
+}
